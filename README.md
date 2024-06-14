@@ -33,7 +33,7 @@ Click [here](https://app.moqups.com/6HB95STuO4RGOCGiEgHGGW50BH0r95Zf/view/page/a
 
 ### Database Schema
 
-The application uses a JSON object as a mock database. Below is the proposed schema for the data:
+The application uses a JSON object as a mock database. Below is the proposed schema for the data :
 
 ```json
 {
@@ -62,6 +62,7 @@ The application uses a JSON object as a mock database. Below is the proposed sch
     }
 }
 
+```
 
 # API Endpoints
 
